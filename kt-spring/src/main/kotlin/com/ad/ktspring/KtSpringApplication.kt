@@ -9,3 +9,7 @@ class KtSpringApplication
 fun main(args: Array<String>) {
     runApplication<KtSpringApplication>(*args)
 }
+fun test()
+{
+    
+}
